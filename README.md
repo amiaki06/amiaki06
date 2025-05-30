@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Amirhossein Aghakasiri (amiaki06)
 
-<!--
-**amiaki06/amiaki06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Student at Azad University, Tehran  
+💻 Junior Developer at Madric Co.  
+🧠 Learning Windows Server, AI, and app/game development  
+🌐 Exploring web, Windows, and AI-based solutions  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests
+- 💾 Windows Server & Desktop
+- 🧠 Python for AI & automation
+- 🌐 Web Development (HTML, CSS, JS)
+- 🕹️ Game/App development with C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: kasiriami06@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/amirhossein-aghakasiri) | [GitHub](https://github.com/amiaki06)
