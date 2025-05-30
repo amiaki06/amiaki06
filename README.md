@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Amirhossein Aghakasiri (amiaki06)
+# 👋 Hi, I'm Amirhossein Aghakasiri
 
 🎓 Electrical Engineering Student at Azad University, Tehran  
-💻 Junior Developer at Madric Co.  
+💻 Junior Developer at Madrik Co.  
 🧠 Learning Windows Server, AI, and app/game development  
 🌐 Exploring web, Windows, and AI-based solutions  
 
